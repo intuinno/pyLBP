@@ -1,3 +1,17 @@
+I updated the source code by msilliac such that to use max sum algorithm
+LBP-original.ipynb is the original source with sum product algorithm 
+
+lbp-min sum.ipynb implements the max sum algorithm
+
+Compare with the sum product algorithm which shows the blurring.  Max sum maintains the sharpness. 
+
+
+
+
+
+
+Below is the original readme.md
+
 pyLBP - Loopy Belief Propagation for Python, using numpy.
 
 copyright (c) 2014 Thomas Iorns - GPLv2+
