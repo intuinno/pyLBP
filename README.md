@@ -13,6 +13,7 @@ Compare with the sum product algorithm which shows the blurring.  Max sum mainta
 
 
 Below is the original readme.md from the fork. 
+-----------------
 
 pyLBP - Loopy Belief Propagation for Python, using numpy.
 
