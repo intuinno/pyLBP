@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # a python library for loopy belief propagation
 
 # tested with python 3.4,
