@@ -3,7 +3,7 @@ I updated the source code by msilliac such that to use max sum algorithm.
 
 [LBP_minsum.ipynb](LBP_minsum.ipynb) implements the max sum algorithm
 
-![Comparison](stereo.png)
+![Comparison](/stereo.png)
 
 Compare with the sum product algorithm which shows the blurring.  Max sum maintains the sharpness. 
 
